@@ -282,7 +282,7 @@ This demo can be extended by integrating additional AWS services:
 # Demo Conducted By
 
 **Mayuresh Muluk**  
-AWS Project Lead  
+AWS Cloud Captain
 AWS Cloud Club PICT
 
 ---
