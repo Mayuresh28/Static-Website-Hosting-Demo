@@ -6,7 +6,7 @@ This project demonstrates how to deploy a **static website using Amazon S3**. Th
 
 In this demonstration, a simple responsive website is deployed on **Amazon S3 using the Static Website Hosting feature**.
 
-This demo was conducted as part of an **AWS Cloud session at Nutan College of Engineering, Pune**.
+This demo was conducted as part of an **AWS Cloud session at NMIET, Pune**.
 
 ---
 
